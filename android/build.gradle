@@ -16,7 +16,7 @@ android {
     }
     defaultConfig {
         applicationId "org.thewdj.bluectrl"
-        minSdkVersion 21
+        minSdkVersion 18
         targetSdkVersion 23
     }
 }
